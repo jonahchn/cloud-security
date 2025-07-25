@@ -1,10 +1,10 @@
 # Cloud Security
 
-Welcome to the Cloud Security repository! 🚀
+Welcome my Cloud Security repository! 🚀
 
 ## Project Overview 📝
 
-This repository is dedicated to curating a comprehensive collection of best practices, guidelines, and resources for ensuring the security of your Cloud infrastructure. 💼💻
+This repository is dedicated to curating a comprehensive collection of best practices, guidelines, and resources for ensuring the security Cloud infrastructure. 💼💻
 
 ## Key Focus Areas 🎯
 
